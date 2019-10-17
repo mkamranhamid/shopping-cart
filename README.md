@@ -1,6 +1,6 @@
 # Prodo Shopping Cart
 
-This is a simple project using [Prodo web framework](https://prodo.dev) framework.
+This is a simple project using [Prodo web framework](https://prodo.dev).
 
 ## Getting Started
 
