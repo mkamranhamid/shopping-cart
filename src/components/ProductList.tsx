@@ -2,7 +2,6 @@ import * as React from "react";
 
 interface Props {
     title: string;
-    children: any;
 }
 const ProductList: React.FC<Props> = ({ title, children }) => (
     <div className="container">
